@@ -71,7 +71,7 @@ Ensure the following are installed:
    ```bash
    python3 -m venv env
    source env/bin/activate
-   pip install -r requirment.txt
+   pip install -r requirement.txt
    ```
 
 > **Note**: Windows users must install Npcap.
