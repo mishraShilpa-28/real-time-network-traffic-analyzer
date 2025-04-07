@@ -145,7 +145,4 @@ Click the **Download** button on the web interface to export captured packets to
 
 ---
 
-## Screenshots
-![Screenshot 2024-12-07 at 16-12-38 Packet Sniffer](https://github.com/user-attachments/assets/9c02d9f4-faec-4607-b26f-caf6006aa6bc)
-
-![Screenshot 2024-12-07 at 16-12-54 Packet Sniffer](https://github.com/user-attachments/assets/242328e7-497c-4aea-9a34-b7644a44dbf2)
+<!--## Screenshots-->
