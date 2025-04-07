@@ -54,8 +54,8 @@ Ensure the following are installed:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Navneet106/capture-network/
-   cd capture-network
+   git clone https://github.com/mishraShilpa-28/real-time-network-traffic-analyzer.git
+   cd real-time-network-traffic-analyzer
    ```
 
 2. Create and activate a virtual environment:
